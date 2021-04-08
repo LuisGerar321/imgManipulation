@@ -1,0 +1,6 @@
+input[type="range"]::-ms-fill-lower {
+        background-color: #000000; 
+}
+input[type="range"]::-ms-fill-upper {  
+background-color: #8100a1;
+}
